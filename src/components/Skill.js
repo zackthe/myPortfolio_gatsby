@@ -28,7 +28,7 @@ const Skill = () =>{
             const { text , img } = skill
         return   <>
         <div className="skills_card">
-             <img src = {img}  className="skills_icon"/>
+             <img src = {img}  className="skills_icon" alt='skill-icon'/>
              <p>{text}</p>
         </div>     
                  </>

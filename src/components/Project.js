@@ -45,7 +45,7 @@ const Project = () => {
         <h2 className="project-title">{title}</h2>
         <p className="project-paragraph">{description}</p>
         </div>
-        <a href={link} target="_blank" style={{cursor : "pointer"}}><p className="project_details">view project</p></a>
+        <a href={link} target="_blank" style={{cursor : "pointer"}} rel="noreferrer"><p className="project_details">view project</p></a>
         </div>
         </>
 

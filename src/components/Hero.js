@@ -14,7 +14,7 @@ const Hero = () => {
     developer.</p>
   
   <div className="btn-wraper">
-  <a href="https://docs.google.com/document/d/1Ko6HcsyS0QgToOn32kOKlAMvG4l16YYiHCDv_mPz7ek/edit?usp=sharing" target="_blank"><button className="hero-btn-contact-me btn" >View resume</button></a>
+  <a href="https://docs.google.com/document/d/1Ko6HcsyS0QgToOn32kOKlAMvG4l16YYiHCDv_mPz7ek/edit?usp=sharing" target="_blank" rel="noreferrer"><button className="hero-btn-contact-me btn" >View resume</button></a>
   <a href="#projects"><button className="hero-btn-work btn">See work</button></a>
   </div>
   <FaArrowCircleDown  color="white" fontSize="1.5em" className='arrow-down' ></FaArrowCircleDown>

@@ -41,7 +41,7 @@ const Footer = () => {
       
        </div>
        <div className="footer-navigation-wraper">
-       <Link to="/"><div className="footer-logo"><img className="logo-img" src={logo} alt=""></img></div></Link>
+       <Link to="/" aria-label='home page' ><div className="footer-logo"><img className="logo-img" src={logo} alt="logo" width='80px' height='35px'></img></div></Link>
        <nav className="footer-navigation">
            <ul>
               <li><Link to="/projects"><p>Projects</p></Link></li> 
@@ -55,12 +55,11 @@ const Footer = () => {
 
 {            social.map(link =>{
         const {id,icon,url} = link
-        return <a  href={url} target="_blank">{icon}</a>
+        return <a  href={url} target="_blank" rel="noreferrer" aria-label='social icons'>{icon}</a>
 })
 }
-             {/* <a href="https://www.instagram.com/za_ach/"  target="_blank"><i className="fab fa-instagram fa-2x" style={{color: 'white'}}></i></a>
-             <a href="https://twitter.com/Zakariae_Bl" target="_blank"><i className="fab fa-twitter fa-2x" style= {{color: 'white'}}></i></a>
-             <a href="https://www.facebook.com/zakaria.bel.7165/"  target="_blank"><i className="fab fa-facebook-square fa-2x"></i></a> */}
+
+
           </div>
        </div>
        </div>

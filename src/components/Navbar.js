@@ -13,11 +13,11 @@ const Navbar = () => {
     <>
     <nav className="navigation">
         <div className="navigation-header">
-        <Link to="/">
-        <div className="footer-logo"><img className="logo-img" src={logo} alt=""></img>
+        <Link to="/" aria-label='home page'>
+        <div className="footer-logo"><img className="logo-img" src={logo} alt="logo" width='80px' height='35px' ></img>
         </div>
         </Link>
-        <button id="humberger-menu" className={ open ? "humberger-menu open" : "humberger-menu" } onClick = {() => {isOpen(!open)}}>
+        <button className={ open ? "humberger-menu open" : "humberger-menu" } onClick = {() => {isOpen(!open)}} name="humberger-menu" value="humberger-menu">
             <span className="hamburger"></span>
         </button>
         </div>
