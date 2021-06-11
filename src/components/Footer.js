@@ -4,6 +4,8 @@ import social from '../constants/social_links'
 import logo from "../assets/images/logo.png"
 import {useState , useEffect, useRef} from 'react'
 import { FaSmile } from "react-icons/fa"
+import { StaticImage } from "gatsby-plugin-image"
+
 
 
 
@@ -41,7 +43,7 @@ const Footer = () => {
       
        </div>
        <div className="footer-navigation-wraper">
-       <Link to="/" aria-label='home page' ><div className="footer-logo"><img className="logo-img" src={logo} alt="logo" width='80px' height='35px'></img></div></Link>
+       <Link to="/" aria-label='home page' ><div className="footer-logo"><StaticImage className="logo-img" src="../assets/images/logo.png" alt="logo" ></StaticImage></div></Link>
        <nav className="footer-navigation">
            <ul>
               <li><Link to="/projects"><p>Projects</p></Link></li> 

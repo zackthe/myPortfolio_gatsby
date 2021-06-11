@@ -8,18 +8,6 @@ import Skill from './Skill'
 
 const Skills = () =>{
 
-    const {file : { childImageSharp : { gatsbyImageData } }} = useStaticQuery(graphql`
-    {
-      file(relativePath: {eq: "projects-1.jpg"}) {
-        childImageSharp {
-          gatsbyImageData(
-              width : 500
-              placeholder: BLURRED
-              )
-        }
-      }
-    }
-  `)
 
  return <> <section className="skills">
     <h1 className="skills__title">skills:</h1>

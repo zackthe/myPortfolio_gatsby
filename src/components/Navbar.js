@@ -4,6 +4,7 @@ import { FaAlignRight } from "react-icons/fa"
 import PageLinks from "../constants/links"
 import { Link } from "gatsby"
 import {useState} from "react"
+import { StaticImage } from "gatsby-plugin-image"
 
 const Navbar = () => {
 
@@ -14,10 +15,10 @@ const Navbar = () => {
     <nav className="navigation">
         <div className="navigation-header">
         <Link to="/" aria-label='home page'>
-        <div className="footer-logo"><img className="logo-img" src={logo} alt="logo" width='80px' height='35px' ></img>
+        <div className="footer-logo"><StaticImage className="logo-img" src='../assets/images/logo.png' alt="logo" ></StaticImage>
         </div>
         </Link>
-        <button className={ open ? "humberger-menu open" : "humberger-menu" } onClick = {() => {isOpen(!open)}} name="humberger-menu" value="humberger-menu">
+        <button className={ open ? "humberger-menu open" : "humberger-menu" } onClick = {() => {isOpen(!open)}} aria-label='menu' >
             <span className="hamburger"></span>
         </button>
         </div>
