@@ -388,7 +388,7 @@ button:hover{
 }
 
 .post-content p{
-    font-size: calc(1rem + 0.2vw);
+    font-size: calc(0.8rem + 0.2vw);
     font-family: 'Roboto Mono', monospace;
     line-height: 30px;
 
