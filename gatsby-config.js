@@ -62,6 +62,14 @@ module.exports = {
     {
       resolve: `gatsby-transformer-remark`,
       options: {
+        plugins: [
+          {
+            resolve: `gatsby-remark-images`,
+            options: {
+              maxWidth: 800,
+            },
+          },
+        ],
         // Footnotes mode (default: true)
         footnotes: true,
         // GitHub Flavored Markdown mode (default: true)
