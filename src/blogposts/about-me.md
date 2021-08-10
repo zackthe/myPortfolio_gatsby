@@ -9,7 +9,6 @@ img : "../assets/images/road.jpg"
 
 # Early life :
 
-<!--![Text here](https://media.giphy.com/media/l4pTeSVeMlLSXVhm0/giphy.gif) -->
 
 I was born in 2000, Oujda, Morocco, after one month we went to Ouarzazate where I spent the first 6 primary years of my life, I was a very quiet kid, I rarely spoke, to the point where my mom’s friend thought that I was deaf, one day I asked her for a glass of water, and she literally broke thinking it was a miracle that I can spell words.
 
@@ -17,27 +16,21 @@ After 6 years, we went to Meknes, where I currently live, growing up as a hard i
 
 # Teenage life :
 
-<!--![Text here](https://media.giphy.com/media/3oEjI80DSa1grNPTDq/giphy.gif)-->
-
 lord ! my teenage life !, I was that kind of guy if you gonna see you gonna bully, skinny, shy, insecure, anxious dude, my peers at the class made fun of how I looked, created nicknames, and that fucked me up so bad, in contrast, I had a few loyal friends, that I still hang out with today, shoutout to (Abdelaziz, Achraf, Hicham, Yasser, Abdel Hak ), love you guys. 
 I got really tired of the bullying, uncomfortable and angry, then I decided to join a kick-boxing club, there I gained some stamina, I learned new boxing moves, and I got obsessed with it, inspired by Badr Hari and other famous boxers, I liked the mentality and I progressed a lot in contrast of who I was, I started to get into street fights, and of course, I revenged those motherfuckers that used to make fun of me.
 
 As a teenager who wants to prove himself, at the age of 12, my first year of secondary school, I got the first mark in the class it was 20 out of 20 in a subject I guess it's Islamic education, it was the first time I achieved something like that, I felt happy, suddenly I’m out of the box, some light is shining on me, suddenly people started to know my name, I liked it and I got addicted to it, also I developed the skill of teaching myself, as in public schools you gonna struggle if you’re not studying hard at home or doing extra courses, I liked the feeling of going hard to achieve something, I studied my ass off, I hated the idea of extra hours, I remember I had a lot of first marks that year even though I wasn’t the first but I was in the top 5%, and it went like that for the rest of my school years, I always make it in the top tier of my class as it gave me the self-esteem and confidence, I discovered my competitive spirit.
 
-<!--![Text here](https://media.giphy.com/media/CTX0ivSQbI78A/giphy.gif) -->
 
 Back in 2011 my dad bought us a computer, a big fat Pentium 4, with 512 MB ram, I developed a keen interest in computer games (Prince of Persia was my favorite), I loved solving problems and challenges, I discovered a new world, my love for computers, my obsession, I was addicted to it, even it wasn’t wired with the internet we used to buy CDs of games with 5 dirhams from cybers. 
 one fact: I've had a stable internet till 2019, dad couldn’t afford to wire our house with internet, we were on house rent, as we didn’t have a stable house, I used to go to cybers or use modems, another fact I learned French/English by downloading tutorials from cybers and devouring them at home, school ain’t gonna teach you to shit brothers.
 
 # Post high school :
 
-<!--![Text here](https://media.giphy.com/media/5Zesu5VPNGJlm/giphy.gif) -->
 
 After I graduated from high school, I got really confused, I didn’t know what to do, where to study, I didn’t have any interest in becoming an architect or a doctor, so I head over to a school where I can study computer science called (EST) and sticked to my love for computers , and to be honest, 90% of the program was bullshit, outdated and time wasting, I disliked the system, and I started to regret my choice, I got irritated, and I knew that I need to think outside of the box if I wanna make it in a third world country, I stumbled across the entrepreneurial world, making your own business, being your own boss, I got excited and I jumped, I read books about business , and I watched moroccan and foreighn success stories, it gave me hope that I can make it, in contrast my grades went really bad, and I started hating the school, till a point where I disliked programming, there was a lot of theoretical and contradictory courses that I need take that I knew for a fact was a total bullshit, and then the depression began, I needed to learn a skill to make a business, I  had a very little time, I spent about 3 hours every day on buses and from 8 to 12 / 2 to 6 continuous program, my health only gotten worse without any benefit.
 
 In 2019 The year when I had stable internet, I said this is it, my opportunity, and I started looking for a way of how can I make money out of the internet, I found a lot of information, a lot of resources, and the first mistake I made was the shiny object syndrome because there was a lot of domains I got confused, I wasted time deciding in which better, I started filtering what I like and whatnot, I tried a lot of things but nothing seems to work, I become one with my computer 24/7, seeking and trying, a lot of self-doubt arises, technical issues arise, tired and fucked up, so I spent about one year to earn a 20$ from a band that I proposed to fix their WordPress website, it seems pathetic but for me it was a milestone, because I went from 0 to a number.
-
-<!--![Text here](https://media.giphy.com/media/eLGzgzgySiRJS/giphy.gif)-->
 
 After all these experiences, I knew that I need to focus on one thing, so I turned back to programming, and this is due to Javascript (programming language), it was practical and I found that I can build with it without struggling much in contrast to ( C or Java), I learned Javascript and I’m still learning it, I liked it, and developed a portfolio, got some freelancing work, there I knew this was the opportunity.
 This is the truth for every freelancer in Morocco, or any third world country, shit ain’t easy, it is torturing, when I see someone who made it, I know for a fact that he went through hell, starting under the zero ain’t easy, shit gonna fuck you up, survival mode gonna fuck you up, society gonna fuck you up until you make it and shut their mouth.
@@ -46,7 +39,6 @@ I wrote these words to reflect on myself and capture this checkpoint of my life,
 
 `If you reach this point, I truly appreciate it. You are really patient, you survived through my English hell, you are the person that I want to hang out with in the future, if you skipped, ain’t no problem I still wanna hang out with you too ;) .`
 
-<!--![Text here](https://media.giphy.com/media/Mp4hQy51LjY6A/giphy.gif)-->
 
 
 
