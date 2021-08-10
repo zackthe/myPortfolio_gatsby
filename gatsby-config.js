@@ -18,6 +18,24 @@ module.exports = {
     `gatsby-transformer-sharp`,
     `gatsby-transformer-json`,
     {
+      resolve: `gatsby-transformer-remark`,
+      options: {
+        plugins: [
+          {
+            resolve: "gatsby-remark-copy-linked-files",
+            options: {
+              destinationDir: "path/to/dir",
+            },
+          },
+        ],
+      /*  // Footnotes mode (default: true)
+        footnotes: true,
+        // GitHub Flavored Markdown mode (default: true)
+        gfm: true,*/
+       
+      },
+    },
+    {
       resolve: 'gatsby-plugin-react-svg',
       options: {
         rule: {
@@ -57,25 +75,6 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/src/assets/projectData.json`,
-      },
-    },
-    {
-      resolve: `gatsby-transformer-remark`,
-      options: {
-        plugins: [
-          {
-            resolve: `gatsby-remark-images`,
-            options: {
-              maxWidth: 800,
-            },
-          },
-        ],
-        // Footnotes mode (default: true)
-        footnotes: true,
-        // GitHub Flavored Markdown mode (default: true)
-        gfm: true,
-        // Plugins configs
-        plugins: [],
       },
     },
     `gatsby-plugin-react-helmet`,
