@@ -44,7 +44,7 @@ This is the truth for every freelancer in Morocco, or any third world country, s
 
 I wrote these words to reflect on myself and capture this checkpoint of my life, know where I’ve been, appreciate where I’m, and chase my goals, I’m a hungry man for success, I truly don’t give a fuck of how much it gonna cost me, I still didn’t achieve much of what I’m planning but I’ll stick to it till the last breath.
 
-`If you reach this point, I truly appreciate it. You are really patient, you survived through my English hell, you are the person that I want to hang out with in the future, if you skipped, ain’t no problem I want to hang out with you too ;).`
+`If you reach this point, I truly appreciate it. You are really patient, you survived through my English hell, you are the person that I want to hang out with in the future, if you skipped, ain’t no problem I want to hang out with you too ;) .`
 
 ![Text here](https://media.giphy.com/media/Mp4hQy51LjY6A/giphy.gif)
 
