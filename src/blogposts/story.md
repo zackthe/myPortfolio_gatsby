@@ -9,7 +9,6 @@ img : "../assets/images/road.jpg"
 
 # Early life :
 
-![Text here](https://media.giphy.com/media/l4pTeSVeMlLSXVhm0/giphy.gif) 
 
 I was born in 2000, Oujda, Morocco, after one month we went to Ouarzazate where I spent the first 6 primary years of my life, I was a very quiet kid, I rarely spoke, to the point where my mom’s friend thought that I was deaf, one day I asked her for a glass of water, and she literally broke thinking it was a miracle that I can spell words.
 
