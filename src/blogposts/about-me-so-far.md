@@ -3,6 +3,7 @@ path :  "/blog/About-me-so-far"
 title:  "About me so far !"
 date : "2021-08-09"
 img : "../assets/images/road.jpg"
+featuredImgUrl : null
 ---
 
 `“If one does not know to which port one is sailing, no wind is favorable.” — Lucius Annaeus Seneca`.
