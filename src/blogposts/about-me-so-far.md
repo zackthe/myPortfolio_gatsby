@@ -8,6 +8,8 @@ featuredImgUrl : null
 
 `“If one does not know to which port one is sailing, no wind is favorable.” — Lucius Annaeus Seneca`.
 
+![baby](https://media.giphy.com/media/l4pTeSVeMlLSXVhm0/giphy.gif)
+
 # Early life :
 
 I was born in 2000, Oujda, Morocco, after one month we went to Ouarzazate where I spent the first 6 primary years of my life, I was a very quiet kid, I rarely spoke, to the point where my mom’s friend thought that I was deaf, one day I asked her for a glass of water, and she literally broke thinking it was a miracle that I can spell words.
