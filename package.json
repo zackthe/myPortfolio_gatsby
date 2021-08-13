@@ -17,6 +17,7 @@
     "esm": "^3.2.25",
     "gatsby": "^3.2.1",
     "gatsby-paginate": "^1.1.1",
+    "gatsby-plugin-disqus": "^1.2.2",
     "gatsby-plugin-image": "^1.6.0",
     "gatsby-plugin-react-helmet": "^4.2.0",
     "gatsby-plugin-react-svg": "^3.0.1",

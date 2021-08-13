@@ -35,7 +35,7 @@ module.exports = {
               controls: true,
               muted: false,
               autoplay: true
-              
+
             }
           },
         ],
@@ -46,6 +46,12 @@ module.exports = {
        
       },
     },
+    {
+      resolve: `gatsby-plugin-disqus`,
+      options: {
+          shortname: `https-belkasmizakariae-com`
+      }
+  },
     {
       resolve: 'gatsby-plugin-react-svg',
       options: {
