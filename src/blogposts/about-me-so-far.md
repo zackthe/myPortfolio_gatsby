@@ -1,5 +1,5 @@
 ---
-path :  "/blog/About-me-so-far"
+path :  "/blog/Who-am-I"
 title:  "Who am I !"
 date : "2021-08-09"
 img : "../assets/images/road.jpg"

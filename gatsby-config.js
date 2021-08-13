@@ -34,7 +34,8 @@ module.exports = {
               loop: false,
               controls: true,
               muted: false,
-              autoplay: false
+              autoplay: true
+              
             }
           },
         ],
