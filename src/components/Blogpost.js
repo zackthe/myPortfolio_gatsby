@@ -8,7 +8,7 @@ const Blogpost = ({title,path,image,excerpt}) =>{
 
     return (
         <li>
-                 <GatsbyImage  image ={image} alt="post-img" className="post-img"/>
+                <GatsbyImage  image ={image} alt="post-img" className="post-img"/>
                 
                 <div className="post-title-wrapper">
                 <h3>

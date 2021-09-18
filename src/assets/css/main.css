@@ -89,9 +89,9 @@ a{
     text-decoration: none;
 }
 
-ul{
+/*ul{
     list-style-type: none;
-}
+}*/
 
 h1,h2,p,a{
     color: white;
@@ -389,7 +389,9 @@ button:hover{
 
 .post-content p{
     font-size: calc(0.9rem + 0.2vw);
-    font-family: 'Roboto Mono', monospace;
+    /*font-family: 'Roboto Mono', monospace;*/
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
     line-height: 30px;
 
 }
@@ -1221,7 +1223,7 @@ button:hover{
     }
     
     .post-img{
-        width: 500px; 
+        max-width: 400px; 
         /* margin-top: 1em ;
         margin-bottom: 1em; */
     }
@@ -1363,9 +1365,13 @@ figure > img { display: block; }
 figcaption { font-size: 14px; }
 
 /** Lists */
-/*ul, ol { margin-left: 30px; }
+ul, ol { margin-left: 30px;
+    color : white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
-li > ul, li > ol { margin-bottom: 0; }
+}
+
+li > ul, li > ol { margin-bottom: 10px; }
 
 /** Headings */
 /*h1, h2, h3, h4, h5, h6 { font-weight: 400; }
