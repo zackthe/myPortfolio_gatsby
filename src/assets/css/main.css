@@ -414,7 +414,7 @@ button:hover{
     background-color: var(--clr-primary);
     padding: 4em 1.2em;
     padding-bottom: 3em;
-    /*height: 100vh;*/
+
 }
 
 .hero > *{
