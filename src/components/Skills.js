@@ -10,7 +10,7 @@ const Skills = () =>{
 
 
  return <> <section className="skills">
-    <h1 className="skills__title">skills:</h1>
+    <h1 className="skills__title">skills </h1>
       <div className="container">
           <div className="skills__card-wrapper">
            <Skill />

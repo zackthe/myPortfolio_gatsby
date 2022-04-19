@@ -23,6 +23,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
               }
             }
             excerpt(format: PLAIN, pruneLength: 25, truncate: false)
+            timeToRead
           }
         }
       }
