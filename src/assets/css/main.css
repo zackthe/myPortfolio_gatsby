@@ -451,12 +451,11 @@ button:hover{
     background-color: var(--clr-dark);
     padding: 4em 1.2em;
     padding-bottom: 3em;
-    /* min-height: 100vh; */
-    /*line-height: 50px; */
+   
 }
 
 .hero > * {
-    margin: 35px 0 0 0px;
+    margin: 34px 0 0 0px;
 }
 
 
