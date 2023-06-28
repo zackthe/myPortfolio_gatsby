@@ -70,7 +70,7 @@ const Footer = () => {
             </div>
             </div>
 
-            <p style={{textAlign: 'center', fontSize : '1.3em'}}>This site is built using <GrGatsbyjs></GrGatsbyjs> open sourced on <FaGithub></FaGithub> deployed on <SiNetlify></SiNetlify></p>
+            <p style={{textAlign: 'center', fontSize : '1.3em'}}>This site is built using gatsby <GrGatsbyjs></GrGatsbyjs> open sourced on github <FaGithub></FaGithub> deployed on netlify <SiNetlify></SiNetlify></p>
 
          </footer>
 }

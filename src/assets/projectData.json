@@ -4,7 +4,8 @@
         "title" : "funny generator",
         "description" : "Vanilla js web app",
         "img" : "../assets/images/projects_image/funny.PNG",
-        "link" : "https://zackthe.github.io/funny-randomness/"
+        "link" : "https://zackthe.github.io/funny-randomness/",
+        "tag" : "Jamstack"
     
     },
     {
@@ -12,7 +13,8 @@
         "title" : "Task manager",
         "description" : "Task manager firebase web app",
         "img" : "../assets/images/projects_image/task-manager.PNG",
-        "link":" https://task-manager-c07f0.web.app/"
+        "link":" https://task-manager-c07f0.web.app/",
+        "tag" : "Javascript"
 
     },
     {
@@ -20,7 +22,8 @@
         "title" : "digency",
         "description" : "Desgin agency landing page",
         "img" : "../assets/images/projects_image/digency-moc.png",
-        "link" : "https://zackthe.github.io/Digency/"
+        "link" : "https://zackthe.github.io/Digency/",
+        "tag" : "landing page"
     
     },
     {
@@ -28,7 +31,8 @@
         "title" : "Regency",
         "description" : "Real estate landing page",
         "img" : "../assets/images/projects_image/regency.png",
-        "link" : "https://zackthe.github.io/real_estate/"
+        "link" : "https://zackthe.github.io/real_estate/",
+        "tag" : "Html/css"
     
     }
 

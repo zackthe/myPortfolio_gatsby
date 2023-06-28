@@ -22,20 +22,19 @@ export default function Bloglist ({ data , pageContext }){
             <ul className="post-list">   
 
 
-            <Pagination pageContext = {pageContext}/>
+              <Pagination pageContext = {pageContext}/>
     
-            {console.log(group)}
+
             {
               group.map(node=>{
                   const {title} = node.node.frontmatter;
                   const {path} = node.node.frontmatter;
                   const {excerpt} =  node.node
                   const image = getImage(node.node.frontmatter.img)
-                  const {timeToRead} = node.node
-                  
+
 
                   return (
-                    <Blogpost key ={index} title={title} path={path} image={image} excerpt={excerpt} timeToRead={timeToRead} />
+                    <Blogpost key ={index} title={title} path={path} image={image} excerpt={excerpt} />
                   )
         
                 })
@@ -65,7 +64,6 @@ export const blogListQuery = graphql`
           }
         }
         excerpt(format: PLAIN, pruneLength: 25, truncate: false)
-        timeToRead
       }
     }
   }

@@ -13,6 +13,7 @@ const query = graphql`
         description
         title
         link
+        tag
         img {
           childImageSharp {
             gatsbyImageData( 
@@ -36,16 +37,34 @@ const Project = () => {
   {
     nodes.map(project=>{
       
-        const {title,img: { childImageSharp : {gatsbyImageData}},description , link } = project
+        const {title,img: { childImageSharp : {gatsbyImageData}},description , tag, link } = project
 
-        return <>
-        <div className="project-card">
+       return <>
+       {/*  <div className="project-card">
         <GatsbyImage image={gatsbyImageData} alt="image" className="project__img" />
+        <div className="project-card-wrapper">
         <div className="project-card-title">
         <h2 className="project-title">{title}</h2>
         <p className="project-paragraph">{description}</p>
         </div>
         <a href={link} target="_blank" style={{cursor : "pointer"}} rel="noreferrer"><p className="project_details">view project</p></a>
+        </div>
+        </div>*/}
+        <div className="project-card">
+        <GatsbyImage image={gatsbyImageData} alt="image" className="project__img" />
+        <div className="project-card-wrapperr">
+        <div className="project-card-title">
+        <h2 className="project-title">{title}</h2>
+        <div>
+          <p className="project-stack">{tag}</p>
+        </div>
+        </div>
+        <p className="project-paragraph">{description}</p>
+
+        <a href={link} target="_blank" style={{cursor : "pointer"}} rel="noreferrer"><button className="project-view-project-btn">view project</button></a>
+       {/* <a href={link} target="_blank" style={{cursor : "pointer"}} rel="noreferrer"><button className="project-view-project-btn"><p className="project_details">view project</p></button></a> */} 
+
+        </div>
         </div>
         </>
 

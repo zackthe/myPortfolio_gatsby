@@ -11,7 +11,6 @@ export default function Template ({data}){
     const {title}  =  data.markdownRemark.frontmatter
     const {date}  =  data.markdownRemark.frontmatter
     const {path}  =  data.markdownRemark.frontmatter
-    const {timeToRead} = data.markdownRemark.frontmatter
 
     let disqusConfig = {
       url: path,
@@ -62,7 +61,6 @@ query($pathSlug : String!)
       }
     }
     html
-    timeToRead
   }
 }
 `

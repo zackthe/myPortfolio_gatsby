@@ -4,6 +4,8 @@
  * See: https://www.gatsbyjs.com/docs/gatsby-config/
  */
 
+const sharp = require("sharp")
+
 module.exports = {
   /* Your site config here */
   siteMetadata: {
@@ -11,7 +13,6 @@ module.exports = {
     siteUrl: `https://www.belkasmizakariae.com`,
     description: `zakariae belkasmi is a front-end web devoloper who builds blazing fast modern experiences, based in morocco`,
   },
-  
   plugins: [
     `gatsby-plugin-image`,
     `gatsby-plugin-sharp`,

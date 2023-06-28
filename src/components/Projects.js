@@ -8,7 +8,7 @@ const Projects = () => {
   
   return <section id="projects" className="projects">  
     
-      <h1 className="projects-title">Projects</h1>
+      <h1 className="projects-title">Crafts I made </h1>
 
         <div className="projects-wraper">
 
@@ -18,7 +18,6 @@ const Projects = () => {
 
   </section>
 
-  
 }
 
 export default Projects

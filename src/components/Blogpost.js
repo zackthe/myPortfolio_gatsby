@@ -2,7 +2,7 @@ import React from 'react'
 import { GatsbyImage, getImage } from "gatsby-plugin-image"
 import { Link } from "gatsby"
 
-const Blogpost = ({title,path,image,excerpt,timeToRead}) =>{
+const Blogpost = ({title,path,image,excerpt}) =>{
 
     console.log(excerpt)
 
@@ -15,7 +15,6 @@ const Blogpost = ({title,path,image,excerpt,timeToRead}) =>{
                   <Link to={path} className='post-link'> {title}</Link>
                 </h3>
                 <p style={{color:'#828282'}}>{excerpt}</p>
-                <p style={{color:'#828282'}}>{timeToRead} min read</p>
                 <Link className="post-read-more" to={path} > Read more → </Link>
                 </div>
 
