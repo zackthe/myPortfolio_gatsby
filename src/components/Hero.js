@@ -6,7 +6,7 @@ import { FaArrowCircleDown } from "react-icons/fa"
 
 
 
-const Hero = () => {
+const Hero = () => { 
   return <section className="hero">
     <div className="hero-text-wrapper">
       <div className="hero-right">
